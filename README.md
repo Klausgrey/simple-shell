@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Shell Project</title>
 </head>
 <body>
 
