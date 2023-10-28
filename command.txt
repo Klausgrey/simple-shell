@@ -1,0 +1,6 @@
+ls -l
+echo "Hello, World!"
+mkdir test_folder
+cd test_folder
+pwd
+
